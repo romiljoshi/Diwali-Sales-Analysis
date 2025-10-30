@@ -1,10 +1,5 @@
 # Python_Diwali_Sales_Analysis
 
-You said:
-GIVE ME A SOMETHING TO IN MY DIWALI SALE PROJECT IN GITHUB TO ADD IN README FILE
-ChatGPT said:
-Here’s a professional and attractive README section you can add to your “Diwali Sales Analysis” GitHub project 👇
-
 🪔 Diwali Sales Analysis - Data Analytics Project
 📊 Project Overview
 This project focuses on analyzing Diwali sales data to understand customer purchasing behavior, sales trends, and revenue insights.
